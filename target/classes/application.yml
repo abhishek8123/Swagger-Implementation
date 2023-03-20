@@ -1,0 +1,12 @@
+# spring:
+#  datasource:
+#     url: jdbc:system:thin:@//localhost:1522/orcl
+#     username: system
+#     password: Hubli@123
+#     driver-class-name: oracle.jdbc.OracleDriver  
+#        
+#  jpa:
+#    database-platform: org.hibernate.dialect.Oracle10cDialect
+#    open-in-view: true
+#    hibernate:
+#       ddl-auto: create
